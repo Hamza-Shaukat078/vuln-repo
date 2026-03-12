@@ -1,0 +1,2 @@
+﻿[packages]
+badlib = {git = "https://github.com/example/badlib.git"}

@@ -1,0 +1,7 @@
+﻿{
+  "name": "vuln-app",
+  "dependencies": {
+    "express": "*",
+    "lodash": "latest"
+  }
+}
